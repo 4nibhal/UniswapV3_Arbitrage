@@ -1,0 +1,19 @@
+[
+    {   "dex": "Uniswap-0,3-first",
+        "address": "0x46bb6bb1b27069C652AA40ddbF47854b1C426428",
+        "decimals": [18, 6],
+        "fee": 0.003,
+        "pair": "WETH/USDT",
+        "WETH": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+        "USDT": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0"
+    },
+    {
+        "dex": "Uniswap-0,05-second",
+        "address": "0xA8e0af24d703845504b0841e53777793Ea56120b",
+        "decimals": [18, 6],
+        "fee": 0.0005,
+        "pair": "WETH/USDT",
+        "WETH": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+        "USDT": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0"
+    }
+]
