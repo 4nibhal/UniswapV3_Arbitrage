@@ -16,6 +16,7 @@ using `slot0` function of the pool
 - Actually the contract is a example u can find in: https://solidity-by-example.org/defi/uniswap-v3-flash-swap/
 - The contract is only a example, i suggest u to make ur own contract, and test it before using it in production
 - <u> I am also currently calculating the upper and lower ticks of the price range, but I am not sure if I am doing the calculation correctly, and I am not currently putting the ticks to use. This part of the code will be commented out, if you find a use for it, or are not calculating the ticks correctly, please let me know. </u>
+- The address in `Arbitrers`pools are for <u>Arbitrum</u> change it for your desired network
 
 ###### Keep in mind
 - This bot is not a financial advice. Use it at your own risk.
