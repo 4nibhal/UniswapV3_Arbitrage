@@ -1,7 +1,7 @@
 const { buildModule } = require("@nomicfoundation/hardhat-ignition/modules");
 
-module.exports = buildModule("UniswapArbitrageV1", (m) => {
-  const UniswapArbitrageV1 = m.contract("UniswapArbitrageV1");
+module.exports = buildModule("UniswapArbitrageV3", (m) => {
+  const UniswapArbitrageV3 = m.contract("UniswapArbitrageV3");
 
-  return { UniswapArbitrageV1 };
+  return { UniswapArbitrageV3 };
 });
