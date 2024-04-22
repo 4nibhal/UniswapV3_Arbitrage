@@ -3,7 +3,7 @@ pragma solidity ^0.8.24;
 
 address constant SWAP_ROUTER_02 = 0x3bFA4769FB09eefC5a80d6E87c3B9C650f7Ae48E; // SEPOLIA ETH
 
-contract UniswapArbitrageV1 {
+contract UniswapArbitrageV3 {
     ISwapRouter02 constant router = ISwapRouter02(SWAP_ROUTER_02);
 
     uint160 private constant MIN_SQRT_RATIO = 4295128739;
