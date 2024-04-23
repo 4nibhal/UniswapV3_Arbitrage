@@ -33,6 +33,7 @@ using `slot0` function of the pool
     - `bun install` or  `npm install`
 - Make `cp .env.example .env` and fill the `.env` file with your PRIVATEKEY. <u>(You can use .env to store your provider too)</u>
 - Deploy the contract in your selected network ( i recommend start with a testnet ) using `ignition/modules/deploy.js`
+      - If you never use `hardhat/ignition before` i recommend to read the docs: https://hardhat.org/tutorial
 - Run the bot
     - `bun run Arbitrers/WETH-USDT/price_usdt.js`
     - `node run Arbitrers/WETH-USDT/price_usdt.js`
